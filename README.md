@@ -48,6 +48,6 @@ if __name__ == "__main__":
     asyncio.run(main())
 
 ### Tips to Make it Stand Out:
-* **Keep the code self-contained:** Ensure the snippet you choose actually runs or clearly demonstrates a complete logic block.
-* **Use Type Hinting:** Including types (`-> None`, `dict`, etc.) instantly signals that you write modern, maintainable Python.
-* **The Dropdown Trick:** The `<details>` tag is excellent for hiding longer code snippets or configuration steps, keeping your main profile page clutter-free while retaining the technical depth.
+Keep the code self-contained: Ensure the snippet you choose actually runs or clearly demonstrates a complete logic block.
+Use Type Hinting: Including types (`-> None`, `dict`, etc.) instantly signals that you write modern, maintainable Python.
+The Dropdown Trick: The `<details>` tag is excellent for hiding longer code snippets or configuration steps, keeping your main profile page clutter-free while retaining the technical depth.
